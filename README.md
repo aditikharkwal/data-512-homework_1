@@ -49,5 +49,9 @@ The first visualization is a time series for the articles that have the highest 
 
 The second visualization is a time series for the top 10 article pages by largest (peak) page views over the entire time by access type. The graph has the top 10 for desktop and top 10 for mobile access (20 lines).
 
+![image](https://github.com/aditikharkwal/data-512-homework_1/assets/38849313/f18c3d0c-4b62-4234-8f1a-8c3864793e75)
+
+The third visualization is a time series of the articles that have the fewest months of available data. The plot will have relatively short time series, some may only have one month of data. The graph has the 10 articles with the fewest months of data for desktop access and the 10 articles with the fewest months of data for mobile access.
+
 
 

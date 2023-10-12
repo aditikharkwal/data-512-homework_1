@@ -44,3 +44,10 @@ We will be using the famous Matplotlib python visualization library here
 Figure showing Maximum Average and Minimum Average articles
 The first visualization is a time series for the articles that have the highest average page requests and the lowest average page requests for desktop access and mobile access. The graph has four lines (max desktop, min desktop, max mobile, min mobile).
 
+![image](https://github.com/aditikharkwal/data-512-homework_1/assets/38849313/4f9a7fc1-a733-42ff-8574-cdf8187d2e4e)
+
+
+The second visualization is a time series for the top 10 article pages by largest (peak) page views over the entire time by access type. The graph has the top 10 for desktop and top 10 for mobile access (20 lines).
+
+
+

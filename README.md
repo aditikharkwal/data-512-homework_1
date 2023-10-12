@@ -53,5 +53,6 @@ The second visualization is a time series for the top 10 article pages by larges
 
 The third visualization is a time series of the articles that have the fewest months of available data. The plot will have relatively short time series, some may only have one month of data. The graph has the 10 articles with the fewest months of data for desktop access and the 10 articles with the fewest months of data for mobile access.
 
+![image](https://github.com/aditikharkwal/data-512-homework_1/assets/38849313/80aac33d-a996-4674-b930-b8c083356c7d)
 
 
